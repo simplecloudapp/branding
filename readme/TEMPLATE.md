@@ -12,6 +12,7 @@
 
   [![Discord][badge-discord]][social-discord]
   [![Follow @simplecloudapp][badge-x]][social-x]
+  [![Follow @simplecloudapp][badge-bluesky]][social-bluesky]
   [![Follow @simplecloudapp][badge-youtube]][social-youtube]
   <br>
 
@@ -31,16 +32,16 @@ The Signs Plugin is an intuitive tool that enhances server navigation within Sim
 ## Features
 
 - [x] **Server Navigation**: Intuitive navigation within SimpleCloud using clickable signs. Instantly connect to other servers with ease.
-- **Supported Server Software**: Supports Paper & Forks. Planned support for Spigot & Forks.
-- **Quick Setup**: Easy installation process for all supported software.
-- **Highly Configurable**: Customize behavior for various server states like `STARTING`, `ONLINE`, etc. se priorities and frame updates for animations.  
-- **Placeholders**: Display real-time information with dynamic placeholders like `%group%`, `%player-count%`, and `%state%`.  
-- **Dynamic Displays**:  Animated text frames for engaging and visually appealing signs.  
+- [x] **Supported Server Software**: Supports Paper & Forks. Planned support for Spigot & Forks.
+- [x] **Quick Setup**: Easy installation process for all supported software.
+- [x] **Highly Configurable**: Customize behavior for various server states like `STARTING`, `ONLINE`, etc. se priorities and frame updates for animations.  
+- [x] **Placeholders**: Display real-time information with dynamic placeholders like `%group%`, `%player-count%`, and `%state%`.  
+- [x] **Dynamic Displays**:  Animated text frames for engaging and visually appealing signs.  
 <details>
 <summary>Screenshots</summary>
 
 ### Ingame Preview
-![Preview](docs/plugin/signs/ingame_preview.png)
+![Preview](../media/plugin/signs/preview.png)
 
 </details>
 
@@ -78,7 +79,7 @@ This repository is licensed under [Apache 2.0][license].
 <!-- LINK GROUP -->
 
 <!-- ✅ PLEASE EDIT -->
-[banner]: readme/banner/plugin/signs.png
+[banner]: banner/plugin/signs.png
 [issue-bug-report]: https://github.com/theSimpleCloud/mylink/issues/new?labels=bug&projects=template=01_BUG-REPORT.yml&title=%5BBUG%5D+%3Ctitle%3E
 [issue-feature-request]: https://github.com/theSimpleCloud/mylink/discussions/new?category=ideas
 [docs-thisproject]: https://docs.simplecloud.app/contribute
@@ -99,8 +100,8 @@ This repository is licensed under [Apache 2.0][license].
 [license]: https://opensource.org/licenses/Apache-2.0
 [snapshots]: https://repo.simplecloud.app/#/snapshots
 
-[social-x]: https://x.com/simplecloud.app
-[social-bluesky]: https://x.com/simplecloud.app
+[social-x]: https://x.com/simplecloudapp
+[social-bluesky]: https://bsky.app/profile/simplecloud.app
 [social-youtube]: https://www.youtube.com/@thesimplecloud9075
 [social-discord]: https://discord.simplecloud.app
 
@@ -108,4 +109,5 @@ This repository is licensed under [Apache 2.0][license].
 [badge-license]: https://img.shields.io/badge/apache%202.0-blue.svg?style=flat-square&label=license&labelColor=18181b&style=flat-square&color=e11d48
 [badge-discord]: https://img.shields.io/badge/Community_Discord-d95652.svg?style=flat-square&logo=discord&color=27272a
 [badge-x]: https://img.shields.io/badge/Follow_@simplecloudapp-d95652.svg?style=flat-square&logo=x&color=27272a
+[badge-bluesky]: https://img.shields.io/badge/Follow_@simplecloud.app-d95652.svg?style=flat-square&logo=bluesky&color=27272a
 [badge-youtube]: https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&logo=youtube&color=27272a
