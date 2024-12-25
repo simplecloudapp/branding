@@ -5,7 +5,6 @@
 <div align="center">
 
   [![Modrinth][badge-modrinth]][modrinth]
-  [![Release][badge-maven-central]][maven-central]
   [![Dev][badge-dev]][dev]
   [![License][badge-license]][license]
   <br>
