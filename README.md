@@ -15,16 +15,17 @@ Welcome to the SimpleCloud Branding Assets repository! This repository contains 
 
 This repository includes the following resources:
 
-- **Logos**: Various versions of the SimpleCloud logo in different formats (SVG, PNG, etc.).
-- **Illustrations**: Custom illustrations related to SimpleCloud’s projects.
-- **Screenshots**: Minecraft Ingame Screenshots of plugin previews.
+- [x] **Logos**: Various versions of the SimpleCloud logo in different formats (SVG, PNG, etc.).
+- [x] **Illustrations**: Custom illustrations related to SimpleCloud’s projects.
+- [x] **Screenshots**: Minecraft Ingame Screenshots of plugin previews.
+- [ ] **Icons**: Icons of all Components
 
 ## License
 This repository is licensed under [GNU](/LICENSE).
 
 
 <!-- LINK GROUP -->
-[banner]: readme/banner/plugin/signs.png
+[banner]: readme/banner/branding.png
 
 [social-x]: https://x.com/simplecloud.app
 [social-bluesky]: https://x.com/simplecloud.app
