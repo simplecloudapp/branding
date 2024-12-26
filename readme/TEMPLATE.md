@@ -46,7 +46,7 @@ The Signs Plugin is an intuitive tool that enhances server navigation within Sim
 
 ## Dependency
 
-> For always up-to-date artifacts visit [dev artifects][dev-artifects] or [artifects][artifects].
+> For always up-to-date artifacts visit [dev artifacts][dev-artifacts] or [artifacts][artifacts].
 
 > Note: If you want to use the dev version, you have to use the [snapshot repository][snapshots].
 
@@ -89,8 +89,8 @@ This repository is licensed under [Apache 2.0][license].
 [dev]: https://repo.simplecloud.app/#/snapshots/app/simplecloud/controller/controller-api
 
 
-[artifects]: https://repo.simplecloud.app/#/snapshots/app/simplecloud/controller/controller-api
-[dev-artifects]: https://repo.simplecloud.app/#/snapshots/app/simplecloud/controller/controller-api
+[artifacts]: https://repo.simplecloud.app/#/snapshots/app/simplecloud/controller/controller-api
+[dev-artifacts]: https://repo.simplecloud.app/#/snapshots/app/simplecloud/controller/controller-api
 
 [badge-maven-central]: https://img.shields.io/maven-central/v/app.simplecloud.controller/controller-api?labelColor=18181b&style=flat-square&color=65a30d&label=Release
 [badge-dev]: https://repo.simplecloud.app/api/badge/latest/snapshots/app/simplecloud/controller/controller-api?name=Dev&style=flat-square&color=0ea5e9
