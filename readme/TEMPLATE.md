@@ -82,12 +82,10 @@ This repository is licensed under [Apache 2.0][license].
 [issue-bug-report]: https://github.com/theSimpleCloud/mylink/issues/new?labels=bug&projects=template=01_BUG-REPORT.yml&title=%5BBUG%5D+%3Ctitle%3E
 [issue-feature-request]: https://github.com/theSimpleCloud/mylink/discussions/new?category=ideas
 [docs-thisproject]: https://docs.simplecloud.app/contribute
-[docs-contribute]: https://docs.simplecloud.app/contribute
 
 [modrinth]: https://modrinth.com/organization/simplecloud
 [maven-central]: https://central.sonatype.com/artifact/app.simplecloud.controller/controller-api
 [dev]: https://repo.simplecloud.app/#/snapshots/app/simplecloud/controller/controller-api
-
 
 [artifacts]: https://repo.simplecloud.app/#/snapshots/app/simplecloud/controller/controller-api
 [dev-artifacts]: https://repo.simplecloud.app/#/snapshots/app/simplecloud/controller/controller-api
@@ -98,6 +96,7 @@ This repository is licensed under [Apache 2.0][license].
 <!-- ⛔ DON'T TOUCH -->
 [license]: https://opensource.org/licenses/Apache-2.0
 [snapshots]: https://repo.simplecloud.app/#/snapshots
+[docs-contribute]: https://docs.simplecloud.app/contribute
 
 [social-x]: https://x.com/simplecloudapp
 [social-bluesky]: https://bsky.app/profile/simplecloud.app
